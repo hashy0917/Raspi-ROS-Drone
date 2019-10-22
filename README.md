@@ -1,5 +1,5 @@
 # Raspi-ROS-Drone
-ラズベリーパイZEROを使用して小型のDroneを作るプロジェクトです。
+RaspberryPiZEROを使用して小型のDroneを作るプロジェクトです。
 
 ## ディレクトリ解説
 
